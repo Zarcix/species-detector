@@ -10,7 +10,7 @@ This project went through three phases:
     - This step was done on a smaller [dataset](https://1drv.ms/u/s!AtgMuyZI0PWbggs_jMwKZeGxkuip?e=qyOR3r).
     - `modelTrainWeights.py` is the python file for this step
 2. Full dataset training using hyper parameters
-    - This step was done on the [full dataset]().
+    - This step was done on the [full dataset](https://1drv.ms/u/s!AtgMuyZI0PWbggyAakccvmSl6InE?e=p1iUsE).
     - `modelTrainFull.py` is the python file for this step
 3. Testing and verification using an augmented dataset
     - An augmented dataset was generated for this step.
